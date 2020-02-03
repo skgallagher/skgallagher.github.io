@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Shannon Gallagher</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/resume.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Shannon Gallagher</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/sg-portrait.jpg" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#research">Research</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#tools">Software and Tools</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#community">Community Involvement</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h2 class="mb-0">Shannon
+            <span class="text-primary">Gallagher</span>
+          </h2>
+          <div class="subheading mb-5"><a style="color:#666">Ph.D. Candidate ·</a> <a href="http://stat.cmu.edu" style="color:#666">Dept. of Statistics & Data Science</a> · <a href="http://cmu.edu" style="color:#b00">Carnegie Mellon University</a> ·
+            <a href="mailto:sgallagh@stat.cmu.edu">sgallagh@stat.cmu.edu</a>
+          </div>
+	  <p>I am working with <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a> investigating the statistical properties of agent-based models and their relationship to compartment models for applications in epidemiology. More specifically, I am interested in model selection and model validation in these contexts in order to create more accurate and interpretable models in order to better predict and curb the spread of infectious disease.</p>
+
+	  <p>
+	  Other interests include the production and maintenance of synthetic ecosystems (such as <a href="http://stat.cmu.edu/~spew"> SPEW</a> made with <a href="http://leerichardson.github.io">Lee Richardson</a> and <a href="">Sam Ventura</a>), data visualization (such as <a href="http://stat.cmu.edu:3838/sgallagh/spewview/">SPEW View</a>, which won <b>first prize</b> at the MIDAS Mission Public Health <a href="http://midas-publichealth-hack-3336.devpost.com/updates">Hackathon</a> in 2016), sports analytics (see <a href="http://stat.cmu.edu/~kfrisoli">Kayla Frisoli </a>, <a href="http://stat.cmu.edu/~aluby">Amanda Luby</a>, and my <b>Honorable Mention and $1,000 award</b> <a href="https://github.com/shannong19/courtsports/blob/master/contest/surface-type/paper-tennis.pdf">paper</a> at <a href="https://cmusportsanalytics.com/conference2018.html"> CMSAC18</a>), and improving community engagement and support for the statistics community via <a href="http://stat.cmu.edu/womeninstats">Women in Statistics</a> (see <a href="https://datamakespossible.westerndigital.com/women-data-science-rebecca-nugent-team/">this recent article </a> that was in the news).
+	  </p>
+          <p class="lead mb-5">
+	    <center>
+	      <a type="button" style="color:#fff; background-color:#629833; border:none;" class="btn" href="papers/cv_gallagher_1-19.pdf">Download CV (Updated 1/19)</a>
+	      </center>
+	  </p>
+	  <br>
+
+	  
+          <div class="social-icons">
+	    <center>
+            <!-- <a href="#"> -->
+            <!--   <i class="fab fa-linkedin-in"></i> -->
+            <!-- </a> -->
+            <a href="https://github.com/shannong19">
+              <i class="fab fa-github"></i>
+            </a>
+            <a href="https://twitter.com/shannonkgallagh">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <!-- <a href="#"> -->
+            <!--   <i class="fab fa-facebook-f"></i> -->
+              <!-- </a> -->
+	    </center>
+          </div>
+        </div>
+      </section>
+
+      <hr class="m-0">
+
+            <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="research">
+        <div class="my-auto">
+          <h2 class="mb-5">Research</h2>
+
+	  <h3 id="papers-and-reports">Papers and Reports</h3>
+
+	  <p><a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2018.1442342">SPEW: Synthetic Populations and Ecosystems of the World</a>. Gallagher, S., <a href="http://www.stat.cmu.edu/~lrichard/">Richardson, L. F.</a>, <a href="">Ventura, S.L.</a>, and <a href="http://www.stat.cmu.edu/~bill/">Eddy, W.F.</a>. Journal of Computational and Graphical Statistics, 2018.</p>
+
+	 
+	  <p>“Nine Ways to Estimate R0 in the SIR Model with an example from H1N1 Pandemic Influenza A.” Gallagher, S., Chang, A., and Eddy, W.F.  In preparation, 2019.</p>
+
+	  <p> <a href= "https://github.com/shannong19/courtsports/blob/master/contest/surface-type/paper-tennis.pdf">"Opening up the court (surface) in tennis grand slams"</a>. Gallagher, S., Frisoli, K., and Luby, A.  In preparation, 2019 </p>
+
+	  <p><a href="papers/gallagher_8-17.pdf">Comparing compartment and agent-based models</a> (Proposal document; 10/2017).  Advisor:  <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.  Committee: <a href="http://www.stat.cmu.edu/~joel/">Joel Greenhouse</a>, <a href="http://www.stat.cmu.edu/people/faculty/howard-seltman">Howard Seltman</a>, and <a href="">Sam Ventura</a>.</p>
+
+	  <p><a href="papers/final_report_2_23_16.pdf">Prediction Fever: Modeling Influenza with Regional Effects</a> (ADA Final Report; 2/2016). Joint work with <a href="http://www.stat.cmu.edu/~ryantibs/">Ryan Tibshirani</a>, <a href="http://www.cs.cmu.edu/~roni/">Roni Rosenfeld</a>, and <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.</p>
+
+	  <br>
+	  <h3 id="selected-presentations-and-posters">Selected Presentations and Posters</h3>
+
+	  	  <p><a href="papers/courtsports-cmsac2018.pdf">Opening up the (court) surface in tennis grand slams</a> (Carnegie Mellon University Sports Analytics Conference.  10/2018, Pittsburgh, PA).  <b> Honorable Mention Presentation </b>.  Joint work with <a href="http://www.stat.cmu.edu/~kfrisoli">Kayla Frisoli</a> and  <a href="http://www.stat.cmu.edu/~aluby/">Amanda Luby</a>.
+
+
+	  <p><a href="papers/jsm2018-gallagher.pdf">Catalyst: agents of change</a> (Joint Statistical Meetings.  8/2018, Vancouver, BC).  Advisor:  <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.  Committee: <a href="http://www.stat.cmu.edu/~joel/">Joel Greenhouse</a>, <a href="http://www.stat.cmu.edu/people/faculty/howard-seltman">Howard Seltman</a>, and <a href="">Sam Ventura</a>.</p>
+
+
+	  <p><a href="papers/jsm-2017-slides.pdf">Comparing compartment and agent-based models</a> (Joint Statistical Meetings.  8/2017, Baltimore, MD).  Advisor:  <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.  Committee: <a href="http://www.stat.cmu.edu/~joel/">Joel Greenhouse</a>, <a href="http://www.stat.cmu.edu/people/faculty/howard-seltman">Howard Seltman</a>, and <a href="">Sam Ventura</a>.</p>
+
+	  <p><a href="papers/spew_lucca.pdf">SPEW: Synthetic Populations and Ecosystems of the World</a> (International Conference on Synthetic Populations. 2/2017, Lucca, Italy).   <strong>Invited presentation</strong>. Joint work with <a href="http://www.stat.cmu.edu/~lrichard/">Lee Richardson</a>, <a href="http://www.stat.cmu.edu/~sventura">Samuel Ventura</a>, and <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.</p>
+
+	  <p><a href="papers/slides_long.html">Generating Synthetic Ecosystems: A Tutorial</a> (International Conference on Synthetic Populations. 2/2017, Lucca, Italy).   <strong>Invited presentation</strong>. Joint work with <a href="http://www.stat.cmu.edu/~lrichard/">Lee Richardson</a>, <a href="http://www.stat.cmu.edu/~sventura">Samuel Ventura</a>, and <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.</p>
+
+	  <p><a href="papers/WSDS_panel.pdf">Women in Statistics at Carnegie Mellon University</a>  (Women in Statistics and Data Science. 10/2016, Charlotte, NC).  Joint work with <a href="http://stat.cmu.edu/~pchakrav">Purvasha Chakravarti</a>.</p>
+
+	  <p><a href="papers/poster_wsds.pdf">Statistical Modelling of Infectious Diseases: Influenza and the “Next Disease”</a>  (Women in Statistics and Data Science. 10/2016, Charlotte, NC).  Joint work with <a href="http://www.stat.cmu.edu/~ryantibs/">Ryan Tibshirani</a>, <a href="http://www.cs.cmu.edu/~roni/">Roni Rosenfeld</a>, <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>, <a href="http://www.stat.cmu.edu/~sventura/">Sam Ventura</a>, and <a href="http://leerichardson.github.io/">Lee Richardson</a></p>
+
+	  <p><a href="papers/midas_meeting_2016_gallagher.pdf">Services for the MIDAS Network:  Visualization and Synthetic Ecosystems</a> (MIDAS, 5/2016, Washington D.C.).  Joint work with <a href="http://www.stat.cmu.edu/~sventura/">Sam Ventura</a>, and <a href="http://leerichardson.github.io/">Lee Richardson</a>.</p>
+
+	  <p><a href="papers/gallagher_buffalo.pdf">From Forecasting the Flu to Predicting the “Next” Disease</a> (UP-Stat; 4/2016; Buffalo, NY). <strong>2nd place</strong> student presentation.  Joint work with <a href="http://www.stat.cmu.edu/~ryantibs/">Ryan Tibshirani</a>, <a href="http://www.cs.cmu.edu/~roni/">Roni Rosenfeld</a>, <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>, <a href="http://www.stat.cmu.edu/~sventura/">Sam Ventura</a>, and <a href="http://leerichardson.github.io/">Lee Richardson</a></p>
+
+	  <p><a href="papers/pres_final_12_1_2015.pdf">Prediction Fever: Modeling Influenza with Regional Effects</a> (ADA; 12/2016; Pittsburgh, PA).  Joint work with <a href="http://www.stat.cmu.edu/~ryantibs/">Ryan Tibshirani</a>, <a href="http://www.cs.cmu.edu/~roni/">Roni Rosenfeld</a>, and <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.</p>
+
+	  <br>
+
+	  <h3 id="research-groups">Research Groups</h3>
+
+	  <p>As a part of the <a href="http://www.epimodels.org/drupal/">MIDAS Informatics Services Group</a>, I am producing tools and analyzing data for infectious disease modeling.  Specifically, we have made <a href="http://stat.cmu.edu/~spew">SPEW</a>, an <code class="highlighter-rouge">R</code> package to create agents for use in agent-based models.</p>
+
+	  <p>I am a member of the CMU Sports Analytics Graduate Student group.  Most recently, my collaborators and I won an Honorable Mention for our submission for <a href="https://cmusportsanalytics.com/conference2018.html"> CMSAC Reproducible Research Competition</a>.
+
+	    </p>
+
+	  <p>For my first-second year Advanced Data Analysis Project, I predicted the incidence of the flu using an Empirical Bayes model with regional dependencies as a part of <a href="http://delphi.midas.cs.cmu.edu/">CMU DELPHI</a>.</p>
+
+	  <p>As an undergraduate at CMU, I worked with the <a href="http://www.stat.cmu.edu/NCRN/PUBLIC/">NSF Census Research Network</a> on a project about record linkage of multiple databases.</p>
+	  
+        </div>
+	    </section>
+
+	    <hr class="m-0">
+
+
+	          <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="tools">
+        <div class="my-auto">
+          <h2 class="mb-5">Software and Tools</h2>
+
+	  <h3><a href="https://github.com/shannong19/catalyst" id="catalyst">Catalyst 
+	  </a> (2017-Present)</h3>
+	  <p>
+<a href="http://github.com/shannong19/catalyst">Catalyst:</a> Compartment and agent-based models temporal analysis and testing (Catalyst).  A software suite for easy analysis of compartment and agent-based models under varying assumptions of population heterogeneity, disease conditions, environmental conditions, and agent features.
+</p>
+
+    <h3 id="spewhttpstatcmueduspew-2016--present"><a href="http://stat.cmu.edu/~spew">SPEW</a> (2016- Present)</h3>
+
+<p><a href="http://stat.cmu.edu/~spew/">spew</a>: An R package for synthetic ecosystem generation. <a href="http://leerichardson.github.io/">Lee Richardson</a>, Shannon Gallagher,  <a href="http://www.stat.cmu.edu/~sventura/">Sam Ventura</a>, and <a href="http://www.stat.cmu.edu/~bill/">Bill Eddy</a>.</p>
+
+<p><a href="http://stat.cmu.edu/~spew/">
+	<img src="img/SPEW.jpg" width="250" />
+</a></p>
+
+
+<h3 id="coding-for-girls-pittsburgh-pa-june-29-july-12-2016">Coding for Girls (Pittsburgh, PA; June 29, July 12, 2016)</h3>
+
+<p><a href="coding_for_girls/mydeck/index.html">Slides</a></p>
+
+<p><a href="coding_for_girls/cog.html">Instructions for Activity</a></p>
+
+<p><a href="coding_for_girls/wt.zip">Data (.zip)</a></p>
+
+<p><a href="http://stat.cmu.edu:3838/sgallagh/wt/">Survey Shiny App</a></p>
+
+<h3 id="spew-viewhttpstatcmuedu3838sgallaghspewview-pittsburgh-pa-february-2016"><a href="http://stat.cmu.edu:3838/sgallagh/spewview/">SPEW View</a> (Pittsburgh, PA; February 2016)</h3>
+<p>Check out our visualization app, <a href="http://stat.cmu.edu:3838/sgallagh/spewview/">SPEW View</a>, which won <strong>first prize</strong> at the MIDAS Mission Public Health <a href="http://midas-publichealth-hack-3336.devpost.com/updates">Hackathon</a> in 2016.</p>
+
+<p><a href="http://stat.cmu.edu/~spew/">
+	<img src="img/spewview.png" width="350" />
+</a></p>
+
+
+
+<hr class="m-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="community">
+        <div class="my-auto">
+          <h2 class="mb-5">Community Involvement</h2>
+
+
+	  
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+	  <h3 class="mb-0"><a href="http://stat.cmu.edu/womeninstats">Women in Statistics</a></h3>
+              <div class="subheading mb-3"><b> Co-President </b></div>
+          <p>
+	    <ul>
+	      <li><a href="http://stat.cmu.edu/wids"> Women in Data Science Pittsburgh @CMU</a> Executive Committee Member and website designer</li>
+
+	      	    <li>PI of $1600 ProSEED/Crosswalk grant used to establish a mentorship program in the Stat&DS community called Matched Pairs</li>
+
+	      <li>Organized discussion with CMU Mellon College of Science Dean and Professor of Statistics Rebecca C. Doerge</li>
+	      <li>Organized visit and talk by former Statistics PhD Alum <a href="http://samrachana.com/">Samrachana Adhikari</a>, Assistant professor in Biostatistics, Department of Population Health, New York University School of Medicine  </li>
+
+	      <li>Mentor for undergraduate statistics major </li>
+	      		
+	    
+	    </ul>
+	  </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">2017 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Reviewer</h3>
+              <div class="subheading mb-3">Statistics in Medicine and Journal of Quantitative Sports Analytics</div>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">2016 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0"><a href="https://www.meetup.com/Pittsburgh-useR-Group/?_cookie-check=h5-r3TZ0_mSJborK">Pittsburgh useR</a></h3>
+              <div class="subheading mb-3"><b>Co-organizer </b></div>
+              <p>
+		<ul>
+
+		  </ul>
+
+		</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">2017-2018</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">CMU IM Sports</h3>
+              <div class="subheading mb-3">Random Walkers team member (10 sports!)</div>
+              <ul>
+
+		<li>
+		  3x IM champion (softball 2016, flag football 2018, kickball 2018)
+		</li>
+		<li>
+		  100+ games played
+		  </li>
+
+		</ul>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">2015-Present</span>
+            </div>
+          </div>
+
+
+	  
+        </div>
+      </section>
+
+      <hr class="m-0">
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/resume.min.js"></script>
+
+  </body>
+
+</html>
