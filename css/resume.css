@@ -181,17 +181,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #629833 !important;
+  background-color: #253A77 !important;
 }
 
 .text-primary {
-  color: #629833 !important;
+  color: #253A77 !important;
 }
 
 a {
-  color: #629833;
+  color: #253A77;
 }
 
 a:hover, a:focus, a:active {
-  color: #277552;
+  color: #3A2577;
 }
